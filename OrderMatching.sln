@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OrderMatching", "OrderMatching\OrderMatching.vcxproj", "{AB44E4E9-91B2-42E9-A04A-161407D976DF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UnitTesting", "UnitTesting\UnitTesting.vcxproj", "{9757CB21-B840-49A6-B057-9F322E543DD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB44E4E9-91B2-42E9-A04A-161407D976DF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AB44E4E9-91B2-42E9-A04A-161407D976DF}.Debug|Win32.Build.0 = Debug|Win32
+		{AB44E4E9-91B2-42E9-A04A-161407D976DF}.Release|Win32.ActiveCfg = Release|Win32
+		{AB44E4E9-91B2-42E9-A04A-161407D976DF}.Release|Win32.Build.0 = Release|Win32
+		{9757CB21-B840-49A6-B057-9F322E543DD6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9757CB21-B840-49A6-B057-9F322E543DD6}.Debug|Win32.Build.0 = Debug|Win32
+		{9757CB21-B840-49A6-B057-9F322E543DD6}.Release|Win32.ActiveCfg = Release|Win32
+		{9757CB21-B840-49A6-B057-9F322E543DD6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
